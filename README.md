@@ -38,4 +38,4 @@ Follow these steps to get the project up and running on your local machine.
 
 ## Author
 
-- Alex Anthony
+- Beautified Henry
